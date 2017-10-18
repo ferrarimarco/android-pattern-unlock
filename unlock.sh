@@ -2,6 +2,7 @@
 #
 # Android pattern unlock
 # Author: Matt Wilson
+# Author: Marco Ferrari (minor changes)
 # Licence: Free to use and share. If this helps you please buy me a beer :)
 #
 # This script sends simulated touch input over ADB for remotely swiping on Android's pattern lockscreen.
