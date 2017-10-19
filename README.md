@@ -11,6 +11,8 @@ See the [related blog post](http://ferrarimarco.info/blog/mobile/security/2017/1
 screen.
 - The device does not need to be rooted for this method to work.
 - You need to have adb on your PATH to run this script.
+- Personalize the script to your needs by setting the unlock pattern and the
+coordinates of each point of the pattern unlock screen
 
 # Usage
 
